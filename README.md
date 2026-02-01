@@ -1,16 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Swati Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer and DevOps enthusiastic from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-swati" alt="developer-swati" /></a> </p>
 
 <img align = "right" src = "https://camo.githubusercontent.com/2b5d39e6cee1e0bbb1315d2ffc758aa65dfb9001df597d452cd8f7df1b2ddb8a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966" alt="developer-swati" width = " 300px" height = "300px" />
 
-- 🔭 I’m currently working on **MERN stack projects**
+- 🔭 I have worked on **MERN stack projects**
 
-- 🌱 I’m currently learning **React, Node.js, MongoDB**
+- 🌱 I have experience in Cloud, DevOps, Gen AI and Agentic AI**
 
-- 💬 Ask me about **React , Java, JavaScript, Frontend**
+- 💬 Ask me about **AWS, GCP, Java, React, JavaScript**
 
 - 📫 How to reach me **sharmaswati11606@gmail.com**
 
