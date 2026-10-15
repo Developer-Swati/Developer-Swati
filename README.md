@@ -10,7 +10,7 @@
 
 - 🌱 I have experience in Cloud, DevOps, Gen AI and Agentic AI**
 
-- 💬 Ask me about **AWS, GCP, Java, React, JavaScript**
+- 💬 Ask me about **AWS, GCP, Docker, Kubernetes, Java, React, JavaScript**
 
 - 📫 How to reach me **sharmaswati11606@gmail.com**
 
